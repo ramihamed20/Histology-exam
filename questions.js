@@ -18,8 +18,7 @@
 const QUESTIONS = [
 
 // ── أمثلة — احذف هذه واستبدلها بشرائحك الحقيقية ──
-
-{ image: “01.jpg”, answer: “Simple Squamous Epithelium” },
+{ image: "../images/01.jpg", answer: "Simple Squamous Epithelium" },
 { image: “02.jpg”, answer: [“Simple Cuboidal Epithelium”, “Simple Cuboid”] },
 { image: “03.jpg”, answer: “Simple Columnar Epithelium” },
 { image: “04.jpg”, answer: “Stratified Squamous Epithelium” },
